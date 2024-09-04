@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://c1lrhatmjmrij"]
+
+[ext_resource type="PackedScene" uid="uid://dhvshdwud688u" path="res://Models/Cono.glb" id="1_mrorg"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Cono" parent="." instance=ExtResource("1_mrorg")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.358965, 0)

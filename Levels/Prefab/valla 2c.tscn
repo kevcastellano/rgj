@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://g3e3i3lkmopp"]
+
+[ext_resource type="PackedScene" uid="uid://dmr4potpka2c5" path="res://Models/valla 2c.glb" id="1_rqwae"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="valla 2c2" parent="." instance=ExtResource("1_rqwae")]

@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://d08wnhfq0pyv7"]
+
+[ext_resource type="PackedScene" uid="uid://fma7d4uowygf" path="res://Models/valla 1c.glb" id="1_sqvnp"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="valla 1c2" parent="." instance=ExtResource("1_sqvnp")]

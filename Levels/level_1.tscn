@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=3 uid="uid://hax3d536dvuk"]
 
-[ext_resource type="PackedScene" uid="uid://4sxwg8vpqh3k" path="res://Levels/Truck.tscn" id="1_duhwp"]
+[ext_resource type="PackedScene" uid="uid://4sxwg8vpqh3k" path="res://Levels/Prefab/Truck.tscn" id="1_duhwp"]
 
 [sub_resource type="BoxShape3D" id="BoxShape3D_88ee0"]
 size = Vector3(9, 1, 50)
